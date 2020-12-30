@@ -1,0 +1,71 @@
+30-12-2020 10:17:52	This log contains information about the import schema operation into project 'Employee' on computer 'MOUNTAIN' by user 'admin'.
+30-12-2020 10:17:52	Import of database schema has started.
+30-12-2020 10:17:58	Gathering database options
+30-12-2020 10:17:58	Gathering users
+30-12-2020 10:17:58	Gathering roles
+30-12-2020 10:17:58	Gathering application roles
+30-12-2020 10:17:58	Gathering role memberships
+30-12-2020 10:17:58	Gathering filegroups
+30-12-2020 10:17:58	Gathering full-text catalogs
+30-12-2020 10:17:58	Gathering assemblies
+30-12-2020 10:17:58	Gathering certificates
+30-12-2020 10:17:58	Gathering asymmetric keys
+30-12-2020 10:17:58	Gathering symmetric keys
+30-12-2020 10:17:58	Gathering encrypted symmetric keys
+30-12-2020 10:17:58	Gathering schemas
+30-12-2020 10:17:58	Gathering XML schema collections
+30-12-2020 10:17:58	Gathering user-defined data types
+30-12-2020 10:17:58	Gathering user-defined types
+30-12-2020 10:17:58	Gathering table types
+30-12-2020 10:17:58	Gathering unique keys for table types
+30-12-2020 10:17:58	Gathering primary keys for table types
+30-12-2020 10:17:58	Gathering check constraints for table types
+30-12-2020 10:17:58	Gathering default constraints for table types
+30-12-2020 10:17:58	Gathering partition functions
+30-12-2020 10:17:58	Gathering partition schemes
+30-12-2020 10:17:58	Gathering functions
+30-12-2020 10:17:58	Gathering encrypted functions
+30-12-2020 10:17:58	Gathering aggregates
+30-12-2020 10:17:58	Gathering procedures
+30-12-2020 10:17:58	Gathering encrypted procedures
+30-12-2020 10:17:58	Gathering tables
+30-12-2020 10:17:58	Gathering primary keys
+30-12-2020 10:17:58	Gathering unique constraints
+30-12-2020 10:17:58	Gathering foreign keys
+30-12-2020 10:17:58	Gathering default constraints
+30-12-2020 10:17:58	Gathering check constraints
+30-12-2020 10:17:58	Gathering views
+30-12-2020 10:17:58	Gathering encrypted views
+30-12-2020 10:17:58	Gathering indexes
+30-12-2020 10:17:58	Gathering statistics
+30-12-2020 10:17:58	Gathering full-text index stoplists
+30-12-2020 10:17:58	Gathering full-text indexes
+30-12-2020 10:17:58	Gathering spatial indexes
+30-12-2020 10:17:58	Gathering XML indexes
+30-12-2020 10:17:58	Gathering encrypted triggers
+30-12-2020 10:17:58	Gathering triggers
+30-12-2020 10:17:58	Gathering encrypted and clr ddl triggers
+30-12-2020 10:17:58	Gathering ddl triggers
+30-12-2020 10:17:58	Gathering synonyms
+30-12-2020 10:17:58	Gathering defaults
+30-12-2020 10:17:58	Gathering data constraint uddt bindings
+30-12-2020 10:17:58	Gathering rules
+30-12-2020 10:17:58	Gathering data constraint uddt bindings
+30-12-2020 10:17:58	Gathering message types
+30-12-2020 10:17:58	Gathering queues
+30-12-2020 10:17:58	Gathering contracts
+30-12-2020 10:17:58	Gathering services
+30-12-2020 10:17:58	Gathering event notifications
+30-12-2020 10:17:58	Gathering remote service bindings
+30-12-2020 10:17:58	Gathering broker priorities
+30-12-2020 10:17:58	Gathering signatures
+30-12-2020 10:17:58	Gathering data compression options
+30-12-2020 10:17:58	Gathering extended properties
+30-12-2020 10:17:58	Gathering credentials
+30-12-2020 10:17:58	Gathering logins
+30-12-2020 10:17:58	Gathering server audits
+30-12-2020 10:17:58	Scanning project for duplicate elements
+30-12-2020 10:17:58	Finished duplicate element processing
+30-12-2020 10:17:59	Finished importing database.
+30-12-2020 10:17:59	A summary of the import was saved to the following location: C:\Users\admin\source\repos\company\Employee\Employee\Import Schema Logs\Employee_20201230044752.log
+30-12-2020 10:17:59	Click Finish to continue...
